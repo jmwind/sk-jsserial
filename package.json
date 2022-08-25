@@ -1,0 +1,12 @@
+{
+  "private": false,
+  "name": "sk-jsserial",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "cli.js",
+  "type": "module",
+  "dependencies": {
+    "serialport": "^10.4.0",
+    "sk-jsclient": "^0.0.1"
+  }
+}
